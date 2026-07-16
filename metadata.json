@@ -1,0 +1,6 @@
+{
+  "name": "Artistry Hub",
+  "description": "Full Stack Real-Time Handmade Marketplace connecting rural artisans to customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
