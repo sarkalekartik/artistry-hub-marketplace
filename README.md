@@ -298,9 +298,9 @@ This project is licensed under the **MIT License**.
 
 **Full Stack Development • AI Solutions • Startup Products • Cloud Applications**
 
-* Portfolio: https://your-portfolio.com
-* GitHub: https://github.com/yourusername
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Portfolio: [https://your-portfolio.com](https://kartikfreelancing.lovable.app)
+* GitHub: [https://github.com/Sarkale-Kartik](https://github.com/sarkalekartik)
+* Email: [sarkalekartik42@gmail.com](mailto:your-email@example.com)
 
 ---
 
